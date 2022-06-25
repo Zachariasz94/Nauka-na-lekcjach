@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-01",
+    "liveServer.settings.port": 5501
+  }
+}
